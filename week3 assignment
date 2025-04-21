@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Modern Styled Web Page</title>
+
+  <!-- Linking to the External CSS File -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Header Section with Main Title -->
+  <h1>Welcome to My Modern Web Page</h1>
+
+  <!-- Introductory Paragraph Styled with .intro Class -->
+  <p class="intro">
+    This paragraph is styled with improved typography, colors, padding, and borders for better readability. It's designed to make your web page visually appealing and easy to navigate.
+  </p>
+
+  <!-- Sample Image with Responsive Styling -->
+  <img src="https://via.placeholder.com/1200x600" alt="Sample Image of a Beautiful Landscape">
+
+  <!-- Hyperlink with Smooth Hover Transition -->
+  <p>Learn more by visiting our <a href="https://www.example.com" target="_blank">official website</a> for exciting content.</p>
+</body>
+</html>
